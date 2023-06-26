@@ -1,10 +1,28 @@
 ### 👋 Hi, I’m Erick! Programmer, Cybersecurity Professional
-- Item 1
+- 🔭 I’m currently working on...
+  - Expanding my career and deepening my knowledge in the dynamic fields of IT and cybersecurity.
+    - HackTheBox Machines and courses
+
+
+
 - Item 2
-- Item 3
-  - Sub Item 1
   - Sub Item 2
-🔭 I’m currently working on...
+
+- Item 2
+  - Sub Item 2
+ 
+- Item 2
+  - Sub Item 2
+ 
+- Item 2
+  - Sub Item 2
+ 
+- Item 2
+  - Sub Item 2
+ 
+- Item 2
+  - Sub Item 2
+
      * Expanding my career and deepening my knowledge in the dynamic fields of IT and cybersecurity.
        * HackTheBox Machines and courses
        * CS50 Harvard Python online course
