@@ -16,15 +16,17 @@
 - If you have insights, resources, or opportunities that can assist me in achieving these goals, I would greatly appreciate your assistance.
 
 💬 Ask me about ...
-- Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel, Anything - I'd love to connect.
+- Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel.
 
 👨‍💻 Software Development Projects:
 - [Praciting in Python](https://github.com/ericktafel1/CS50)
 - [Front-End/Web Development](https://codepen.io/ericktafel)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
 
-🤳 Connect with me:[LinkedIn Erick Tafel](https://www.linkedin.com/in/ericktafel/)
+🤳 Connect with me: [LinkedIn Erick Tafel](https://www.linkedin.com/in/ericktafel/)
+
 😄 Pronouns: He/Him/His
+
 ⚡ Fun fact: I have eaten 100-year old eggs, sea urchins, and cow stomach.
 
 <!--
