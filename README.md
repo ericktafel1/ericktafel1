@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Erick! Programmer, Cybersecurity Professional
+### 👋 Hi, I’m Erick! [Programmer](https://github.com/ericktafel1 ), [Cybersecurity Professional](https://www.linkedin.com/in/ericktafel/)
 - 🔭 I’m currently working on...
   - Expanding my career and deepening my knowledge in the dynamic fields of IT and cybersecurity.
     - HackTheBox Machines and courses
@@ -20,14 +20,14 @@
       
 - 👨‍💻 Software Development Projects:
   - [Praciting in Python](https://github.com/ericktafel1/CS50)
-  - [Front-End/Web Development] (https://codepen.io/ericktafel)
-  - [Practice in Ethical Hacking] with HTB (https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
+  - [Front-End/Web Development](https://codepen.io/ericktafel)
+  - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
 
-- 🤳 Connect with me: | LinkedIn ErickTafel |
+- 🤳 Connect with me: [LinkedIn Erick Tafel](https://www.linkedin.com/in/ericktafel/)
 
 - 😄 Pronouns: He/Him/His
 
--⚡ Fun fact: 
+-⚡ Fun fact: I have eaten 100-year old eggs, sea urchins, and cow stomach.
 
 <!--
 **ericktafel1/ericktafel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
