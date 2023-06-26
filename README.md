@@ -19,7 +19,7 @@
 - Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel.
 
 👨‍💻 Software Development Projects:
-- [Praciting in Python](https://github.com/ericktafel1/CS50)
+- [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Front-End/Web Development](https://codepen.io/ericktafel)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
 
