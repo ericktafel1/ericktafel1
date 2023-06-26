@@ -25,13 +25,13 @@
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
 ##
 **🤳 Connect with me:**
-\n [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericktafel)
+- [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericktafel)
 
 **😄 Pronouns:**
-He/Him/His
+- He/Him/His
 
 **⚡ Fun fact:**
-I have eaten 100-year old eggs, sea urchins, and cow stomach.
+- I have eaten 100-year old eggs, sea urchins, and cow stomach.
 
 <!--
 **ericktafel1/ericktafel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
