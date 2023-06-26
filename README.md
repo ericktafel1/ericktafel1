@@ -23,8 +23,8 @@
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Front-End/Web Development](https://codepen.io/ericktafel)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
-
-**🤳 Connect with me:** [LinkedIn Erick Tafel](https://www.linkedin.com/in/ericktafel/)
+##
+**🤳 Connect with me:** [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericktafel)[LinkedIn Erick Tafel](https://www.linkedin.com/in/ericktafel/)
 
 **😄 Pronouns:** He/Him/His
 
