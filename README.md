@@ -2,9 +2,9 @@
 ##
 **🔭 I’m currently working on...**
 - Expanding my career and deepening my knowledge in the dynamic fields of IT and cybersecurity.
-  - HackTheBox Machines and courses
+  -  Google Cybersecurity Professional course/certificate by Coursera
+  -  HackTheBox Machines and courses
   -  CS50 Harvard Python online course
-  -  Considering eJPT and/or B.S. in Computer Science, Software Engineering, or  Cyber Security from Western Governors University.
 - If you believe there are any projects or positions that align with my skill set and expertise, I would be thrilled to connect with you.
 
 **🌱 I’m currently learning ...**
