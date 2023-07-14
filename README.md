@@ -8,6 +8,7 @@
 - If you believe there are any projects or positions that align with my skill set and expertise, I would be thrilled to connect with you.
 
 **🌱 I’m currently learning ...**
+- Google Cybersecurity Professional course/certificate by Coursera
 - Ethical hacking techniques and exploring the arsenal of tools used in the field.
 - Additionally, I am actively gaining proficiency in coding languages, with a current emphasis on Python.
 
