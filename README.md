@@ -1,7 +1,10 @@
 ### 👋 Hi, I’m Erick! [Programmer](https://github.com/ericktafel1 ), [Cybersecurity Professional](https://www.linkedin.com/in/ericktafel/)
 ##
-**Cybersecurity Professional Statement**
-  As a dedicated and adaptable cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting comprehensive risk assessments, applying analytical thinking, and demonstrating meticulous attention to detail. With a core emphasis on integrity and collaboration, I recognize the criticality of safeguarding sensitive information. What truly fulfills me is the opportunity to protect customers' valuable data, ensuring their privacy, trust, and peace of mind. By aligning with organizations' security goals and objectives, I am committed to securing their systems and shielding customers from evolving threats, making a tangible impact in the realm of cybersecurity.
+**Cybersecurity Professional Statement:**
+
+As a dedicated and adaptable cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting comprehensive risk assessments, applying analytical thinking, and demonstrating meticulous attention to detail. With a core emphasis on integrity and collaboration, I recognize the criticality of safeguarding sensitive information. What truly fulfills me is the opportunity to protect customers' valuable data, ensuring their privacy, trust, and peace of mind. By aligning with organizations' security goals and objectives, I am committed to securing their systems and shielding customers from evolving threats, making a tangible impact in the realm of cybersecurity.
+
+##
 
 **🔭 I’m currently working on...**
 - Expanding my career and deepening my knowledge in the dynamic fields of IT and cybersecurity.
@@ -28,15 +31,24 @@
 - [Front-End/Web Development](https://codepen.io/ericktafel)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
 ##
+
 **🤳 Connect with me:**
+
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericktafel)
 
+
 **😄 Pronouns:**
+
+
 - He/Him/His
 
+
 **⚡ Fun fact:**
+
+
 - I have eaten 100-year old eggs, sea urchins, and cow stomach.
+
 
 <!--
 **ericktafel1/ericktafel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
