@@ -27,6 +27,7 @@ As a dedicated and adaptable cybersecurity professional, I thrive on continuous 
 - Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel.
 ##
 **👨‍💻 Software Development Projects:**
+- ********Placeholder for Google Projects******
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Front-End/Web Development](https://codepen.io/ericktafel)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
