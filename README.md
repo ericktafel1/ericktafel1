@@ -27,7 +27,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 **👨‍💻 Software Development Projects:**
 - [Cybersecurity Portfolio]()******
 - [Practice in Python](https://github.com/ericktafel1/CS50)
-- [Front-End/Web Development](https://codepen.io/ericktafel)
+- [Front-End Development](https://codepen.io/ericktafel)
   - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/oscp-study-notes/tree/main/hackthebox-htb)
 - [Articles](https://www.linkedin.com/in/ericktafel/recent-activity/articles/)
