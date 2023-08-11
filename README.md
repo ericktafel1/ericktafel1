@@ -2,7 +2,7 @@
 ##
 **Cybersecurity Professional Statement:**
 
-As a dedicated cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting comprehensive risk assessments, applying analytical thinking, and demonstrating attention to detail. With a core emphasis on integrity and collaboration, I recognize the criticality of safeguarding sensitive information. What truly fulfills me is the opportunity to protect customers' valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools. By aligning with organizations' security goals and objectives, I am committed to securing their systems and shielding customers from evolving threats, making a tangible impact in the realm of cybersecurity.
+As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting comprehensive risk assessments, applying analytical thinking, and demonstrating attention to detail. With a core emphasis on integrity and collaboration, I recognize the criticality of safeguarding sensitive information. What truly fulfills me is the opportunity to protect customers' valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools. By aligning with organizations' security goals and objectives, I am committed to securing their systems and shielding customers from evolving threats, making a tangible impact in the realm of Cybersecurity.
 
 ##
 
