@@ -6,7 +6,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 
 ##
 
-**🔭 I’m currently working on...**
+**🔭 I’m currently working on ...**
 - Expanding my career and deepening my knowledge in Cybersecurity.
   -  Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata)
   -  HackTheBox Machines and courses
