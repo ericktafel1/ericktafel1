@@ -24,7 +24,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 **💬 Ask me about ...**
 - Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel.
 ##
-**👨‍💻 Software Development Projects:**
+**👨‍💻 Projects:**
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Front-End Development](https://codepen.io/ericktafel)
