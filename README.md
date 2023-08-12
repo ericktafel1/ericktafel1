@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Erick! [Programmer](https://github.com/ericktafel1 ), [Cybersecurity Professional](https://www.linkedin.com/in/ericktafel/)
+### 👋 Hi, I’m Erick! [Programmer](https://github.com/ericktafel1), [Cybersecurity Professional](https://www.linkedin.com/in/ericktafel/)
 ##
 **Cybersecurity Professional Statement:**
 
@@ -25,7 +25,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 - Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel.
 ##
 **👨‍💻 Software Development Projects:**
-- [Cybersecurity Portfolio]()******
+- [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Front-End Development](https://codepen.io/ericktafel)
   - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
