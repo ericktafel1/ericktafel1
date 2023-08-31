@@ -22,7 +22,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 - If you have insights, resources, or opportunities that can assist me in achieving these goals, please feel free to reach out to me.
 
 **💬 Ask me about ...**
-- Technology, Security, Video Games, Fitness, Outdoor activites, Food, Travel.
+- Technology, Security, Lock picking, Fitness, Outdoor activites, Food, Travel, Video Games.
 ##
 **👨‍💻 Projects:**
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
