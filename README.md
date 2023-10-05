@@ -8,21 +8,20 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 
 **🔭 I’m currently working on ...**
 - Expanding my career and deepening my knowledge in Cybersecurity.
-  -  Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata)
-  -  HackTheBox Machines and courses
+  -  HackTheBox(HTB) Academy Skill paths and Job paths. Studying for HTB Certified Penetration Testing Specialist (CPTS).
+  -  Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
 - If you believe there are any projects or positions that align with my skill set and expertise, I would be thrilled to connect with you.
 
 **🌱 I’m currently learning ...**
-- Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata)
-- Ethical hacking techniques and exploring the arsenal of tools used in the field.
+- Core security assessment concepts, specialized tools, attack tactics, and methodology used during penetration testing via HTB. 
+- Continuous learning in Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
 
 **🤔 I’m looking for help with ...**
-- Finding a mentor who can help me further enhance my scripting and programming skills.
 - Securing an entry-level Cybersecurity position to gain practical experience and professional growth.
 - If you have insights, resources, or opportunities that can assist me in achieving these goals, please feel free to reach out to me.
 
 **💬 Ask me about ...**
-- Technology, Security, Lock picking, Fitness, Outdoor activites, Food, Travel, Video Games.
+- Technology, Security, Lock picking, Linux, RaspberryPi, PC Builds, Fitness, Outdoor activites, Food, Travel, Video Games, Photography.
 ##
 **👨‍💻 Projects:**
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
