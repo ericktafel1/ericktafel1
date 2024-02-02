@@ -8,21 +8,21 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 
 **🔭 I’m currently working on ...**
 - Expanding my career and deepening my knowledge in Cybersecurity. Studying for HTB Certified Penetration Testing Specialist (CPTS).
-  -  HackTheBox(HTB) Academy Skill paths and Job paths.
+  -  HackTheBox(HTB) Academy Skill paths and Job paths. (Notes saved locally)
   -  [HackTheBox(HTB) Retired and Active Machines.](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb) 
-  -  Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
+  -  [Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - If you believe there are any projects or positions that align with my skill set and expertise, I would be thrilled to connect with you.
 
 **🌱 I’m currently learning ...**
-- Core security assessment concepts, specialized tools, attack tactics, and methodology used during penetration testing via HTB. 
-- Continuous learning in Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
+- [Core security assessment concepts, specialized tools, attack tactics, and methodology used during penetration testing via HTB.](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb)
+- [Continuous learning in Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 
 **🤔 I’m looking for help with ...**
 - Securing an entry-level Cybersecurity position to gain practical experience and professional growth.
 - If you have insights, resources, or opportunities that can assist me in achieving these goals, please feel free to reach out to me.
 
 **💬 Ask me about ...**
-- Technology, Security, Lock picking, Linux, RaspberryPi, PC Builds, Fitness, Outdoor activites, Food, Travel, Video Games, Photography.
+- Technology, Hacking, Lock picking, Linux, RaspberryPi, PC Builds, Fitness, Outdoor activites, Food, Travel, Video Games, Photography.
 ##
 **👨‍💻 Projects:**
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
