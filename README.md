@@ -9,7 +9,8 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 **🔭 I’m currently working on ...**
 - Expanding my career and deepening my knowledge in Cybersecurity. Studying for HTB Certified Penetration Testing Specialist (CPTS).
   -  HackTheBox(HTB) Academy Skill paths and Job paths. (Notes saved locally)
-  -  [HackTheBox(HTB) Retired and Active Machines.](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb) 
+  -  [HackTheBox(HTB) Retired and Active Machines.](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb)
+  -  [Enjoying Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
   -  [Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - If you believe there are any projects or positions that align with my skill set and expertise, I would be thrilled to connect with you.
 
@@ -27,6 +28,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 **👨‍💻 Projects:**
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb)
+- [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Scripts](https://github.com/ericktafel1/Scripts)
 - [Front-End Development](https://codepen.io/ericktafel)
