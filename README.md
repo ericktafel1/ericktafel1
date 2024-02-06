@@ -29,10 +29,10 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
+- [Front-End Development Showcase](https://codepen.io/ericktafel)
+  - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Scripts](https://github.com/ericktafel1/Scripts)
-- [Front-End Development](https://codepen.io/ericktafel)
-  - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
 - [Articles](https://www.linkedin.com/in/ericktafel/recent-activity/articles/)
 ##
 
