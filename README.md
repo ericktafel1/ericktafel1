@@ -28,6 +28,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 **👨‍💻 Projects:**
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb)
+- [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Front-End Development Showcase](https://codepen.io/ericktafel)
   - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
