@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Erick! [Programmer](https://github.com/ericktafel1), [Cybersecurity Professional](https://www.linkedin.com/in/ericktafel/)
+### 👋 Hi, I’m Erick! [Aspiring Cybersecurity Professional](https://ericktafel.tech)
 ##
 **Cybersecurity Professional Statement:**
 
