@@ -34,7 +34,6 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
   - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
 - [Practice in Python](https://github.com/ericktafel1/CS50)
 - [Scripts](https://github.com/ericktafel1/Scripts)
-- [Articles](https://www.linkedin.com/in/ericktafel/recent-activity/articles/)
 - [Certificates](https://www.credly.com/users/erick-tafel/badges)
 ##
 
