@@ -26,7 +26,7 @@ As a dedicated Cybersecurity professional, I thrive on continuous learning and d
 - Technology, Hacking, Lock picking, Linux, RaspberryPi, PC Builds, Fitness, Outdoor activites, Food, Travel, Video Games, Photography.
 ##
 **👨‍💻 Projects:**
-- [Practice in Ethical Hacking with HTB](https://github.com/ericktafel1/Ethical-Hacking/tree/main/hackthebox-htb)
+- [HTB Notes and Boxes](https://github.com/ericktafel1/Main-Notes)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
