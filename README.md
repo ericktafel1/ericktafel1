@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Erick! [Aspiring Cybersecurity Professional](https://ericktafel.tech)
+### 👋 Hi, I’m Erick! [Cybersecurity Professional](https://ericktafel.tech)
 ##
 **Cybersecurity Professional Statement:**
 
