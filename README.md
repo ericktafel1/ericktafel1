@@ -2,7 +2,7 @@
 ##
 **Cybersecurity Professional Statement:**
 
-As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting ethical penetration tests and risk assessments. What truly fulfills me is the opportunity to protect valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools.
+Security Engineer with an active TS clearance. Experience in penetration testing, security research, software-defined radios, and threat modeling. IAT Level III - CompTIA Advanced Security Practitioner (CASP+). As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting ethical penetration tests and risk assessments. What truly fulfills me is the opportunity to protect valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools.
 
 ##
 
