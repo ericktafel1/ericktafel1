@@ -2,28 +2,26 @@
 ##
 **Cybersecurity Professional Statement:**
 
-As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting comprehensive risk assessments, applying analytical thinking, and demonstrating attention to detail. With a core emphasis on integrity and collaboration, I recognize the criticality of safeguarding sensitive information. What truly fulfills me is the opportunity to protect customers' valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools. By aligning with organizations' security goals and objectives, I am committed to securing their systems and shielding customers from evolving threats, making a tangible impact in the realm of Cybersecurity.
+As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting ethical penetration tests and risk assessments. What truly fulfills me is the opportunity to protect valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools.
 
 ##
 
 **🔭 I’m currently working on ...**
-- Expanding my career and deepening my knowledge in Cybersecurity. Studying for HTB Certified Penetration Testing Specialist (CPTS).
+- Expanding my career and deepening my knowledge in Cybersecurity by actively studying for HTB Certified Penetration Testing Specialist (CPTS).
   -  HackTheBox(HTB) Academy Skill paths and Job paths.
   -  HackTheBox(HTB) Retired and Active Machines.
-  -  Enjoying Raspberry Pi Projects.
-  -  Practicing with Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
-- If you believe there are any projects or positions that align with my skill set and expertise, I would be thrilled to connect with you.
+  -  Enjoying Raspberry Pi Projects, WiFi Pineapple, and Flipper Zero.
+  -  Practicing with software-defined radios, Kali Linux, Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
 
 **🌱 I’m currently learning ...**
-- Core security assessment concepts, specialized tools, attack tactics, and methodology used during penetration testing via HTB.
-- Continuous learning in Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
+- Specialized tools, attack tactics, and methodology used during vulnerability assessments and penetration testing.
 
 **🤔 I’m looking for help with ...**
-- Securing an entry-level Cybersecurity position to gain practical experience and professional growth.
+- Expanding my network in the Cybersecurity industry and improving my understanding of current and evolving vulnerabilities and exploits.
 - If you have insights, resources, or opportunities that can assist me in achieving these goals, please feel free to reach out to me.
 
 **💬 Ask me about ...**
-- Technology, Hacking, Lock picking, Linux, RaspberryPi, PC Builds, Fitness, Outdoor activites, Food, Travel, Video Games, Photography.
+- Technology, Hacking, Lock picking, Linux, RaspberryPi, WiFi Pineapple, Flipper Zero, PC Builds, Fitness, Outdoor activities, Food, Travel, Video Games, Photography.
 ##
 **👨‍💻 Projects:**
 - [HTB Notes and Boxes](https://github.com/ericktafel1/Main-Notes)
