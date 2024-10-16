@@ -7,8 +7,10 @@ Security Engineer with an active TS clearance. Experience in penetration testing
 ##
 
 **🔭 I’m currently working on ...**
-- Expanding my career and deepening my knowledge in Cybersecurity by actively studying for HTB Certified Penetration Testing Specialist (CPTS).
+- Expanding my career and deepening my knowledge in Cybersecurity by actively studying for ethical hacking certifications.
   -  HackTheBox(HTB) Academy Skill paths and Job paths.
+  -  The Cyber Mentor(TCM) Academy Modules.
+  -  TryHackMe(THM) Rooms and Machines.
   -  HackTheBox(HTB) Retired and Active Machines.
   -  Enjoying Raspberry Pi Projects, WiFi Pineapple, and Flipper Zero.
   -  Practicing with software-defined radios, Kali Linux, Python, SQL, SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
@@ -24,7 +26,7 @@ Security Engineer with an active TS clearance. Experience in penetration testing
 - Technology, Hacking, Lock picking, Linux, RaspberryPi, WiFi Pineapple, Flipper Zero, PC Builds, Fitness, Outdoor activities, Food, Travel, Video Games, Photography.
 ##
 **👨‍💻 Projects:**
-- [Ethical Hacking Notes and Boxes](https://github.com/ericktafel1/Main-Notes)
+- [Notes and CTF Writeups](https://github.com/ericktafel1/Main-Notes)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
@@ -40,17 +42,7 @@ Security Engineer with an active TS clearance. Experience in penetration testing
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericktafel)
 
-
-**😄 Pronouns:**
-
-
-- He/Him/His
-
-
-**⚡ Fun fact:**
-
-
-- I have eaten 100-year old eggs, sea urchins, and cow stomach.
+# STAY CURIOUS
 
 
 <!--
