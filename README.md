@@ -7,7 +7,7 @@ Security Engineer with an active TS clearance SCI eligible. Experience in penetr
 ##
 **🔭 I’m currently working on ...**
 - Expanding my career and deepening my knowledge in Cybersecurity by actively studying for ethical hacking certifications, working on projects for my home lab, and learning programming languages.
-  -  Certifications: OSCP+ = In Progress
+  -  Certifications: OSCP+ In Progress
   -  Course Materials: OffSec PEN-200, HackTheBox(HTB) Academy, and TCM Security.
   -  CTFs: TryHackMe(THM) Rooms and Machines, HTB Boxes, OffSec Proving Grounds, VulnHub.
   -  Projects: Home Network, Raspberry Pi, Arduino, WiFi Pineapple, Flipper Zero, RTL SDR, BashBunny, RubberDucky, LAN Turtle,
