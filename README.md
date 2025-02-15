@@ -2,21 +2,22 @@
 ##
 **Cybersecurity Professional Statement:**
 
-Security Engineer with an active TS clearance SCI eligible. Experience in penetration testing, security research, software-defined radios, and threat modeling. IAT Level III - CompTIA Advanced Security Practitioner (CASP+). As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting ethical penetration tests and risk assessments. What truly fulfills me is the opportunity to protect valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools.
+Security Engineer with an active TS clearance SCI eligible. Experience in penetration testing, security research, software-defined radios, and vulnerability assessments. Obtained PNPT, PJPT, CompTia CSIS, and IAT Level III - CompTIA Advanced Security Practitioner (CASP+). As a dedicated Cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting ethical penetration tests and risk assessments. What truly fulfills me is the opportunity to protect valuable data, ensuring their privacy, trust, and peace of mind by creating and using innovative tools.
 
 ##
 **🔭 I’m currently working on ...**
 - Expanding my career and deepening my knowledge in Cybersecurity by actively studying for ethical hacking certifications, working on projects for my home lab, and learning programming languages.
+  -  Certifications: OSCP+ = In Progress
   -  Course Materials: OffSec PEN-200, HackTheBox(HTB) Academy, and TCM Security.
   -  CTFs: TryHackMe(THM) Rooms and Machines, HTB Boxes, OffSec Proving Grounds, VulnHub.
   -  Projects: Home Network, Raspberry Pi, Arduino, WiFi Pineapple, Flipper Zero, RTL SDR, BashBunny, RubberDucky, LAN Turtle,
   -  Virtual Machines: Various Linux distros for fun (Arch, etc) and for study (Kali/Windows), SIEM tools (Splunk & Chronicle), and IDS/IPS tools (Suricata).
-  -  Programming Languages: Python, C, SQL, 
+  -  Programming Languages: Python, C, SQL
 
 **🌱 I’m currently learning ...**
-  - Offensive security techniques, post-exploitation tactics, and penetration testing methodologies.
-  - Hands-on experience with exploitation frameworks, privilege escalation strategies, lateral movement, and Active Directory attacks.
-  - 
+- Offensive security techniques, post-exploitation tactics, and penetration testing methodologies.
+- Hands-on experience with exploitation frameworks, privilege escalation strategies, lateral movement, and Active Directory attacks.
+
 **🤔 I’m looking for help with ...**
 - Expanding my network in the Cybersecurity industry and improving my understanding of current and evolving vulnerabilities and exploits.
 - If you have insights, resources, or opportunities that can assist me in achieving these goals, please feel free to reach out to me.
