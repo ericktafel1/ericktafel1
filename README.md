@@ -27,7 +27,7 @@ Security Engineer with an active TS clearance SCI eligible. Experience in penetr
 
 ##
 **👨‍💻 Projects:**
-- [Notes and CTF Writeups](https://github.com/ericktafel1/Main-Notes)
+- [CTF Writeups](https://github.com/ericktafel1/CTFs)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
