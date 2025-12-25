@@ -3,7 +3,7 @@
 ##
 Offensive security techniques, post-exploitation tactics, and penetration testing methodologies.
 Hands-on experience with exploitation frameworks, privilege escalation strategies, lateral movement, and Active Directory attacks. Some old projects and links:
-- [CTF Writeups](https://github.com/ericktafel1/CTFs)
+- [CTF Writeups](https://github.com/ericktafel1/Main-Notes)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
