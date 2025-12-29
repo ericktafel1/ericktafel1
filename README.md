@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m DH4BI
 
 ##
-Offensive security techniques, post-exploitation tactics, and penetration testing methodologies.
-Hands-on experience with exploitation frameworks, privilege escalation strategies, lateral movement, Active Directory attacks, and RF. Some projects and links:
+Offensive security techniques, penetration testing methodologies, and post-exploitation operations. Hands-on experience with exploitation frameworks, privilege escalation, lateral movement, Active Directory attacks, and RF security research, including signal analysis, capture/replay, and wireless protocol abuse.
+Some projects and links:
 - [Portfolio](https://ericktafel1.github.io)
 - [CTF Writeups](https://github.com/ericktafel1/CTFs)
 - [RF Playground](https://github.com/ericktafel1/RF-Playground)
