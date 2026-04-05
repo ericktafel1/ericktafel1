@@ -1,4 +1,4 @@
-### 👋 Hi, I’m DH4BI
+### 👋 Hi, I’m g1gs
 
 ##
 Offensive security techniques, penetration testing methodologies, and post-exploitation operations. Hands-on experience with exploitation frameworks, privilege escalation, lateral movement, Active Directory attacks, and RF security research, including signal analysis, capture/replay, and wireless protocol abuse.
