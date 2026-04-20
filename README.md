@@ -4,6 +4,7 @@
 Offensive security techniques, penetration testing methodologies, and post-exploitation operations. Hands-on experience with exploitation frameworks, privilege escalation, lateral movement, Active Directory attacks, and RF security research, including signal analysis, capture/replay, and wireless protocol abuse.
 Some projects and links:
 - [Portfolio](https://ericktafel1.github.io)
+- [Pentesting Notes](https://github.com/ericktafel1/_C0D3X_)
 - [CTF Writeups](https://github.com/ericktafel1/CTFs)
 - [RF Playground](https://github.com/ericktafel1/RF-Playground)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
