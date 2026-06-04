@@ -5,7 +5,7 @@ Offensive security techniques, penetration testing methodologies, and post-explo
 Some projects and links:
 - [Portfolio](https://ericktafel1.github.io)
 - [Pentesting Notes](https://github.com/ericktafel1/_C0D3X_)
-- [CTF Writeups](https://github.com/ericktafel1/CTFs)
+- [Box Writeups](https://github.com/ericktafel1/B0X3S)
 - [RF Playground](https://github.com/ericktafel1/RF-Playground)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
