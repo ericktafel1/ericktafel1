@@ -12,7 +12,7 @@ Some projects and links:
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Front-End Development Showcase](https://codepen.io/ericktafel)
-  - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
+  - [Source code and notes](https://github.com/ericktafel1/Front_End_Development)
 - [Certificates](https://www.credly.com/users/erick-tafel/badges)
 ##
 
