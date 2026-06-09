@@ -12,8 +12,7 @@ Some projects and links:
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Front-End Development Showcase](https://codepen.io/ericktafel)
   - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
-- [Python](https://github.com/ericktafel1/CS50)
-- [Other Scripts](https://github.com/ericktafel1/Scripts)
+- [Python Scripts](https://github.com/ericktafel1/Python)
 - [Certificates](https://www.credly.com/users/erick-tafel/badges)
 ##
 
