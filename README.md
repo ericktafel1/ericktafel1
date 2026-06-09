@@ -8,11 +8,11 @@ Some projects and links:
 - [Box Writeups](https://github.com/ericktafel1/B0X3S)
 - [RF Playground](https://github.com/ericktafel1/RF-Playground)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
+- [Python Scripts](https://github.com/ericktafel1/Python)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
 - [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
 - [Front-End Development Showcase](https://codepen.io/ericktafel)
   - [Front-End Development Project source code and notes](https://github.com/ericktafel1/Front_End_Development)
-- [Python Scripts](https://github.com/ericktafel1/Python)
 - [Certificates](https://www.credly.com/users/erick-tafel/badges)
 ##
 
