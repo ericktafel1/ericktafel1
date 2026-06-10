@@ -7,7 +7,7 @@ Some projects and links:
 - [Pentesting Notes](https://github.com/ericktafel1/_C0D3X_)
 - [Box Writeups](https://github.com/ericktafel1/B0X3S)
 - [RF Playground](https://github.com/ericktafel1/RF-Playground)
-- [OT / ICS Security Lab](OT-ICS_Security_Lab)
+- [OT / ICS Security Lab](https://github.com/ericktafel1/OT-ICS_Security_Lab)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Python Scripts](https://github.com/ericktafel1/Python)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
