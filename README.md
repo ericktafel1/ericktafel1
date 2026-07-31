@@ -3,17 +3,14 @@
 ##
 Offensive security techniques, penetration testing methodologies, and post-exploitation operations. Hands-on experience with exploitation frameworks, privilege escalation, lateral movement, Active Directory attacks, and RF security research, including signal analysis, capture/replay, and wireless protocol abuse.
 Some projects and links:
-- [Portfolio](https://ericktafel1.github.io)
+- [Website Portfolio](https://ericktafel1.github.io)
 - [Pentesting Notes](https://github.com/ericktafel1/_C0D3X_)
 - [Box Writeups](https://github.com/ericktafel1/B0X3S)
 - [RF Playground](https://github.com/ericktafel1/RF-Playground)
-- [OT / ICS Security Lab](https://github.com/ericktafel1/OT-ICS_Security_Lab)
 - [Azure Honeypot](https://github.com/ericktafel1/AzureHoneypot/blob/main/Honeypot.md)
 - [Python Scripts](https://github.com/ericktafel1/Python)
 - [Raspberry Pi Projects](https://github.com/ericktafel1/RaspberryPiProjects/tree/main)
-- [Cybersecurity Portfolio](https://github.com/ericktafel1/Cybersecurity_Portfolio)
-- [Front-End Development Showcase](https://codepen.io/ericktafel)
-  - [Source code and notes](https://github.com/ericktafel1/Front_End_Development)
+- [OT / ICS Security Lab](https://github.com/ericktafel1/OT-ICS_Security_Lab)
 - [Certificates](https://www.credly.com/users/erick-tafel/badges)
 ##
 
